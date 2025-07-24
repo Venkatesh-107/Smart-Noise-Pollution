@@ -92,7 +92,7 @@ npm start
 
 ## 🤝 Contributors
 
-* **Venkatesh R** – [LinkedIn](https://www.linkedin.com/in/venkatesh-r4910)) | [GitHub](https://github.com/Venkatesh-107)
+* **Venkatesh R** – [LinkedIn](https://www.linkedin.com/in/venkatesh-r107/) | [GitHub](https://github.com/Venkatesh-107)
 * **Yuvanesh KS** – [LinkedIn](https://www.linkedin.com/in/yuvaneshks/) | [GitHub](https://github.com/North-Abyss)
 
 ---
